@@ -1,0 +1,4 @@
+.navegacao{
+    display: flex;
+    flex-direction: row;
+}

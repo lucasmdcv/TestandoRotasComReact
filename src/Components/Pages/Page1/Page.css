@@ -1,0 +1,30 @@
+* {
+    background-color: rgb(238, 238, 238);
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.button{
+      background-color: black;
+    color: aliceblue;
+    width: 20%;
+    height: 52%;
+}
+.navegacao{
+    margin-left: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    white-space: 10px;
+}
+
+.produto1{
+
+    .grade{
+        background-color: red;
+        width: 600px;
+        height: 200px;
+        image-rendering: auto;
+    }
+}
+
